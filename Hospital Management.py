@@ -1,4 +1,4 @@
-#SARATHA INTERNATIONAL SCHOOL
+
 #PYTHON PROGRAM
 ##### Defining the required Functions #####
 
